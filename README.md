@@ -1,5 +1,7 @@
 # HE-Mouse | Mouse Jiggler
-![HE-Mouse Logo](icon.png)
+
+![HE-Mouse Logo](ICON.png)
+
 Keep your PC awake and prevent screen savers or sleep mode from activating by automatically moving the mouse cursor at set intervals.
 
 **Website:** [https://listav.github.io/HE-mouse.github.io/](https://listav.github.io/HE-mouse.github.io/)
